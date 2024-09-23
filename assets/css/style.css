@@ -1,0 +1,136 @@
+body {
+    background-color: rgb(255, 255, 255) !important;
+    margin: 0%;
+}
+
+.container {
+    margin: 0%;
+}
+
+.head-nav {
+    background-color: #131921;
+}
+
+.main-nav {
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.nav-logo {
+    margin-left: 15px;
+}
+
+.logo-img {
+    height: 60px;
+    padding: 8px 0px 8px 6px;
+}
+
+
+.navigation {
+    font-size: 20px;
+    background-color: #232f3e;
+    color: black;
+    text-align: center;
+    padding-right: 15px;
+}
+
+.ul-header {
+    display: flex;
+    align-items: center;
+    position: static;
+    float: none;
+    list-style-type: none;
+    padding: 0px 0px 0px 0px;
+    direction: rtl;
+}
+
+.ul-header .li-header a {
+    color: white;
+    text-decoration: none !important;
+    font-family: Byekan;
+    box-sizing: content-box;
+    float: right;
+    padding: 4px 12px;
+    margin: 4px 0 4px 0;
+}
+
+.ul-header .li-header a:hover {
+    color: white;
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 6px 12px;
+    margin: 0%;
+    text-decoration: none;
+}
+
+/* .header-page {
+    background-color: white;
+    margin-top: 4.5%;
+}
+
+.header-main-menu {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+.main-title {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main-title2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.singup-login {
+    font-size: 30px;
+    text-align: center;
+    border: 3px solid rgb(97, 97, 97);
+    color: black;
+}
+
+.footer {
+    background-color: rgb(97, 97, 97);
+    text-align: center;
+    color: white;
+
+}
+
+
+.dl1 {
+    background-color: rgb(97, 97, 97);
+    color: white;
+    font-size: 20px;
+}
+
+.dl2 {
+    background-color: white;
+    font-size: 20px;
+}
+
+.dl3 {
+    background-color: rgb(97, 97, 97);
+    color: white;
+    font-size: 20px;
+}
+
+.sefaresh {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.header-sefaresh {
+    background-color: rgb(97, 97, 97);
+    text-align: center;
+} */
+
+@font-face {
+    font-family: Byekan;
+    src: url(../Fonts/BYekan-Edited.otf);
+}
